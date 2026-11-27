@@ -10,5 +10,5 @@ venv/
 outputs/detected_faces/*
 !outputs/detected_faces/.gitkeep
 
-images/reference/*
-images/test/*
+images/reference_images/*
+images/test_images/*
